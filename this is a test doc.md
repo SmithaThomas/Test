@@ -1,6 +1,8 @@
 this is a test doc
 
-![C:\Users\Public\Pictures\Sample Pictures]()
+![Dessert](C:\Users\Smitha Thomas\Desktop\New folder\Desert.jpg)
+
+
 
 |      |      |      |
 | :--: | :--: | ---: |
@@ -9,4 +11,8 @@ this is a test doc
 |      |      |      |
 |      |      |      |
 |      |      |      |
+
+# Heading 1
+
+#### Test
 
